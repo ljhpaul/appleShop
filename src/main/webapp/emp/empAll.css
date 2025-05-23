@@ -1,0 +1,22 @@
+h1 { text-align: center; }
+.btn-light { border: 1px solid gray; }
+	
+.login { color: green; }
+.logout { color: black; }
+	
+/* table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+th, td { padding: 3px; }
+thead tr { background: #FFEFD5; border-bottom: 2px solid black; }
+tbody tr:nth-child(2n+1) { background-color: rgb(255, 248, 242); }
+td[first_name *= 'e'] { background-color: #FFE65A; }
+td[email ^= 'S'] { background-color: #BEF5BE; }
+td[dept_id *= '60'] { background-color: skyblue; } */
+/* td[salary_over_8000 = 'true'] { background-color: pink; } */
+/* #container {
+	width: 1000px;
+	margin: 0 auto;
+} */
